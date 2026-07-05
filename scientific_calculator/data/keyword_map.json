@@ -1,0 +1,98 @@
+[
+  {
+    "keywords": ["hypotenuse", "right triangle", "pythagorean", "pythagoras"],
+    "formula": "c = sqrt(a^2 + b^2)",
+    "method": "Pythagorean Theorem",
+    "example": "sqrt(3^2 + 4^2)"
+  },
+  {
+    "keywords": ["circle area", "radius", "area of circle"],
+    "formula": "A = pi * r^2",
+    "method": "Circle Area",
+    "example": "pi * 5^2"
+  },
+  {
+    "keywords": ["circumference", "perimeter of circle"],
+    "formula": "C = 2 * pi * r",
+    "method": "Circle Circumference",
+    "example": "2 * pi * 5"
+  },
+  {
+    "keywords": ["compound interest", "compounded", "principal", "investment growth"],
+    "formula": "A = P * (1 + r/n)^(n*t)",
+    "method": "Compound Interest",
+    "example": "1000 * (1 + 0.05/1)^(1*10)"
+  },
+  {
+    "keywords": ["simple interest"],
+    "formula": "I = P * r * t",
+    "method": "Simple Interest",
+    "example": "1000 * 0.05 * 3"
+  },
+  {
+    "keywords": ["quadratic", "roots", "discriminant"],
+    "formula": "x = (-b ± sqrt(b^2 - 4ac)) / 2a",
+    "method": "Quadratic Formula",
+    "example": "(-(-3) + sqrt((-3)^2 - 4*1*2)) / (2*1)"
+  },
+  {
+    "keywords": ["standard deviation", "variance", "spread of data"],
+    "formula": "σ = sqrt(Σ(x - mean)^2 / n)",
+    "method": "Standard Deviation",
+    "example": "sqrt(((2-4)^2 + (6-4)^2)/2)"
+  },
+  {
+    "keywords": ["log", "logarithm", "exponential growth", "decay"],
+    "formula": "log(x, base)",
+    "method": "Logarithm",
+    "example": "log(100, 10)"
+  },
+  {
+    "keywords": ["sine rule", "law of sines", "triangle angle"],
+    "formula": "a/sin(A) = b/sin(B) = c/sin(C)",
+    "method": "Law of Sines",
+    "example": "sin(radians(60))"
+  },
+  {
+    "keywords": ["cosine rule", "law of cosines"],
+    "formula": "c^2 = a^2 + b^2 - 2ab*cos(C)",
+    "method": "Law of Cosines",
+    "example": "sqrt(5^2 + 7^2 - 2*5*7*cos(radians(60)))"
+  },
+  {
+    "keywords": ["factorial", "permutation", "combination", "arrangements"],
+    "formula": "n! = n * (n-1) * ... * 1",
+    "method": "Factorial",
+    "example": "factorial(5)"
+  },
+  {
+    "keywords": ["distance formula", "distance between points", "coordinates"],
+    "formula": "d = sqrt((x2-x1)^2 + (y2-y1)^2)",
+    "method": "Distance Formula",
+    "example": "sqrt((6-2)^2 + (8-5)^2)"
+  },
+  {
+    "keywords": ["velocity", "speed distance time"],
+    "formula": "v = d / t",
+    "method": "Speed / Velocity",
+    "example": "120 / 2"
+  },
+  {
+    "keywords": ["kinetic energy"],
+    "formula": "KE = 0.5 * m * v^2",
+    "method": "Kinetic Energy",
+    "example": "0.5 * 10 * 4^2"
+  },
+  {
+    "keywords": ["cylinder volume", "volume of cylinder"],
+    "formula": "V = pi * r^2 * h",
+    "method": "Cylinder Volume",
+    "example": "pi * 3^2 * 10"
+  },
+  {
+    "keywords": ["sphere volume", "volume of sphere"],
+    "formula": "V = (4/3) * pi * r^3",
+    "method": "Sphere Volume",
+    "example": "(4/3) * pi * 5^3"
+  }
+]
